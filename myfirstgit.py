@@ -1,4 +1,4 @@
 def firstgit():
-    print("let's learn git")
+    print("git is fun")
 
 firstgit()
